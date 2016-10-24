@@ -1,0 +1,18 @@
+.banner {
+    width: 800px;
+    height: 150px;
+    color: cornflowerblue;
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/7/77/FamilyFeud2007Logo.png");
+    background-size: 100% 100%;
+
+}
+
+
+.question {
+    background-color: cadetblue;
+    font-size: 20pt;
+}
+
+#answer{
+    color:blue;
+}
